@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d484a2f3.css",
-    "main.js": "/static/js/main.d207dcf5.js",
-    "static/js/787.c9cb0fb8.chunk.js": "/static/js/787.c9cb0fb8.chunk.js",
-    "static/media/Slider-Main.jpg": "/static/media/Slider-Main.2b12b0ea2cf2c765e66f.jpg",
-    "static/media/Map.png": "/static/media/Map.ffcd28405b52dad511aa.png",
-    "index.html": "/index.html",
-    "main.d484a2f3.css.map": "/static/css/main.d484a2f3.css.map",
-    "main.d207dcf5.js.map": "/static/js/main.d207dcf5.js.map",
-    "787.c9cb0fb8.chunk.js.map": "/static/js/787.c9cb0fb8.chunk.js.map"
+    "main.css": "/BenquetHotel_bookingNew/static/css/main.826f68ce.css",
+    "main.js": "/BenquetHotel_bookingNew/static/js/main.74e2cab7.js",
+    "static/js/787.c9cb0fb8.chunk.js": "/BenquetHotel_bookingNew/static/js/787.c9cb0fb8.chunk.js",
+    "static/media/Slider-Main.jpg": "/BenquetHotel_bookingNew/static/media/Slider-Main.2b12b0ea2cf2c765e66f.jpg",
+    "static/media/Map.png": "/BenquetHotel_bookingNew/static/media/Map.ffcd28405b52dad511aa.png",
+    "index.html": "/BenquetHotel_bookingNew/index.html",
+    "main.826f68ce.css.map": "/BenquetHotel_bookingNew/static/css/main.826f68ce.css.map",
+    "main.74e2cab7.js.map": "/BenquetHotel_bookingNew/static/js/main.74e2cab7.js.map",
+    "787.c9cb0fb8.chunk.js.map": "/BenquetHotel_bookingNew/static/js/787.c9cb0fb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d484a2f3.css",
-    "static/js/main.d207dcf5.js"
+    "static/css/main.826f68ce.css",
+    "static/js/main.74e2cab7.js"
   ]
 }
