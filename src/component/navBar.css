@@ -1,8 +1,12 @@
 .nav_bar{
     display: flex;
+    align-items: center;
     
     width: 100%;
     height: 11vh;
+    >.menu_bar{
+        display: none;
+    }
 }
 .tabs{
     display: flex;
@@ -43,4 +47,24 @@
 }
 .toggle{
     border: none;
+}
+
+/* Responsive*/
+@media only screen and (max-width: 860px) {
+
+    .nav_bar
+    
+    {
+        >.tabs{
+            display: none;
+        }
+        >.menu_bar{
+        display: block;
+        width: 30vw;
+        margin-left: 4vw;
+        
+    }}
+    .nav_search{
+        width: 90%;
+    }
 }
